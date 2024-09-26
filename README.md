@@ -1,3 +1,41 @@
+<h1 align="center">Calculadora React</h1>
+<h4 align="center">Projeto de Desenvolvimento</h4>
+
+<p align="center">
+  Projeto: uma aplicação de calculadora simples, com funcionalidades para realizar operações matemáticas básicas.</p>
+
+
+## 📎 Sumário
+
+- [✨ Features](#features)
+- [📦 Temas abordados](#topics)
+- [💻 Autor](#author)
+
+<h2 id="features">✨ Features</h2>
+
+- Operações Matemáticas: O projeto permite realizar adição, subtração, multiplicação e divisão.
+- Interface Interativa: Os usuários podem interagir facilmente com botões para inserir números e operações.
+- Design Responsivo: A interface se adapta a diferentes tamanhos de tela.
+
+*As funcionalidades são temporais e não armazenam dados permanentemente.*
+
+<h2 id="topics">📦 Temas abordados</h2>
+
+Recursos React presentes no projeto:
+
+- React
+- CSS para estilização
+- JavaScript para lógica da aplicação
+
+<h2 id="author">💻 Autor</h2>
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/101983677?v=4"/>
+    <p>&nbsp&nbsp&nbspRobson<br>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/Cyber-L4b">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/robson-gabriel-b8a200226/">LinkedIn</a>&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +77,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
